@@ -52,6 +52,7 @@ s.close()
 ## OUTPUT
 OUTPUT 1
 <img width="1226" height="217" alt="sender" src="https://github.com/user-attachments/assets/7866230c-3aea-40f2-9671-5ce9c4c53a8c" />
+
 OUTPUT2 
 <img width="1139" height="228" alt="receiver" src="https://github.com/user-attachments/assets/f5daec93-887a-4853-bb4f-dd12246ad8c9" />
 ## RESULT
